@@ -13,4 +13,5 @@ changes will start from web app  firebase configuration in index.html file insid
   <br>  ".write": true
 <br>  }
 <br>}
-copy and paste this code in rules of real time database in firebase
+<br>copy and paste this code in rules of real time database in firebase.
+<br>
